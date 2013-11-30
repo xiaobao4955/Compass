@@ -1,4 +1,6 @@
 Compass
 =======
 
-Android compass app.
+Android compass app... A very primitive app but nice UI.
+
+Have fun :)

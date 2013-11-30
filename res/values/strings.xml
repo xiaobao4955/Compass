@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Pusula</string>
+    <string name="hello_world">Selamun Aleykum!</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_about">Hakkimda</string>
+    <string name="title_activity_main">Android Pusula</string>
+    <string name="waiting">Arıyor...</string>
+
+</resources>

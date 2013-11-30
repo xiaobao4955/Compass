@@ -1,0 +1,3 @@
+
+Selamün aleyküm. Bu ufak uygulamayı geliştiriken belki günün birinde birisine faydası dokunur diye umarak geliştirdim.
+Uygulamanın program kodlarını Github hesabımdan indirebilirsiniz.
